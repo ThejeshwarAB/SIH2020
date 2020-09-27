@@ -1,2 +1,2 @@
 # SIH2020
-App based portrait building system.
+App based portrait building system using ML.
